@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+main(){
+    int t;cin>>t;
+    while(t--){
+        int n,k=0;cin>>n;
+        bool check =1;
+        int a[n];
+        for(int i=0;i<n;i++){
+            cin>>a[i];
+        }
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(a[i]==a[j]){
+                    check=0;
+                    k=a[i];
+                    break;
+                }
+            }
+            if(!check) break;
+        }
+        if(check) cout<<"NO";
+        else cout<<k;
+        cout<<endl;
+    }
+}

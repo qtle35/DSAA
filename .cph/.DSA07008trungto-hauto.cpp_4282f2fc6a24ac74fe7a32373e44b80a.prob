@@ -1,0 +1,1 @@
+{"name":"Local: DSA07008trungto-hauto","url":"d:\\caugiai\\DSA07008trungto-hauto.cpp","tests":[{"id":1649909186168,"input":"3\n\n(A+(B+C))\n(a+b*c)-(a/b+c)\n((A*B)+C)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA07008trungto-hauto.cpp","group":"local","local":true}

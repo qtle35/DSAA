@@ -1,0 +1,1 @@
+{"name":"Local: DSA07005bieuthuctuongduong","url":"d:\\caugiai\\DSA07005bieuthuctuongduong.cpp","tests":[{"id":1650473285502,"input":"2\na–(b+c)\na-(b-c-(d+e))-f","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA07005bieuthuctuongduong.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: DSA04012tichdathuc","url":"d:\\caugiai\\DSA04012tichdathuc.cpp","tests":[{"id":1653322911389,"input":"2\n4 3\n1 0 3 2\n2 0 4\n5 4\n1 9 3 4 7\n4 0 2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA04012tichdathuc.cpp","group":"local","local":true}

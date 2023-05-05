@@ -1,0 +1,1 @@
+{"name":"Local: DSA07003kiemtrabieuthuctoanhoc","url":"d:\\caugiai\\DSA07003kiemtrabieuthuctoanhoc.cpp","tests":[{"id":1650117888773,"input":"3\n((a+b))\n(a + (b)/c)\n(a + b*(c-d))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA07003kiemtrabieuthuctoanhoc.cpp","group":"local","local":true}

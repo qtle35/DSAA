@@ -1,0 +1,1 @@
+{"name":"Local: DSA05017daysonitonic","url":"d:\\caugiai\\DSA05017daysonitonic.cpp","tests":[{"id":1653489707091,"input":"2\n6\n80 60 30 40 20 10\n9\n1 15 51 45 33 100 12 18 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA05017daysonitonic.cpp","group":"local","local":true}

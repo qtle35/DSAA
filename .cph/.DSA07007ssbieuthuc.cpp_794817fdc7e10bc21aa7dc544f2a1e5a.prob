@@ -1,0 +1,1 @@
+{"name":"Local: DSA07007ssbieuthuc","url":"d:\\caugiai\\DSA07007ssbieuthuc.cpp","tests":[{"id":1650508663802,"input":"2\n-(a+b+c)\n-a-b-c\na-b-(c-d)\na-b-c-d","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA07007ssbieuthuc.cpp","group":"local","local":true}

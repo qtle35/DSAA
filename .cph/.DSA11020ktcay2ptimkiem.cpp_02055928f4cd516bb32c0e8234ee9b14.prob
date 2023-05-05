@@ -1,0 +1,1 @@
+{"name":"Local: DSA11020ktcay2ptimkiem","url":"d:\\caugiai\\DSA11020ktcay2ptimkiem.cpp","tests":[{"id":1656002437158,"input":"3\n5\n10 20 30 40 50\n6\n90 80 100 70 40 30\n3\n1 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA11020ktcay2ptimkiem.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: DSA07029giaimaxaukitu","url":"d:\\caugiai\\DSA07029giaimaxaukitu.cpp","tests":[{"id":1650378961065,"input":"2\n1[b]\n3[b2[ca]]","output":"b\nbcacabcacabcaca"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA07029giaimaxaukitu.cpp","group":"local","local":true}

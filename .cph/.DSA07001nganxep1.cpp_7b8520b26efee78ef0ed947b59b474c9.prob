@@ -1,0 +1,1 @@
+{"name":"Local: DSA07001nganxep1","url":"d:\\caugiai\\DSA07001nganxep1.cpp","tests":[{"id":1649866562767,"input":"push 3\npush 5\nshow\npush 7\nshow\npop\npop\nshow","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA07001nganxep1.cpp","group":"local","local":true}

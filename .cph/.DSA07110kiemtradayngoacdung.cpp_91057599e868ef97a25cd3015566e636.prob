@@ -1,0 +1,1 @@
+{"name":"Local: DSA07110kiemtradayngoacdung","url":"d:\\caugiai\\DSA07110kiemtradayngoacdung.cpp","tests":[{"id":1649862355060,"input":"2\n[()]{}{[()()]()}\n[(])","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\caugiai\\DSA07110kiemtradayngoacdung.cpp","group":"local","local":true}
